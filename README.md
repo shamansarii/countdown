@@ -2,7 +2,7 @@ COUNTDOWN
 ---------
 You can see website here: https://shamansarii.github.io/countdown/
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft countdown
 
