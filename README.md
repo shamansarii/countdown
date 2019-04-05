@@ -13,3 +13,4 @@ The CDNs of all ingredients, along with `script.js` and `style.css` files, have 
 
 ### SCREENSHOT
 
+![countdown](https://user-images.githubusercontent.com/46775349/55642347-a9d7cf00-57e9-11e9-8e38-6b55cdc59ca1.png).
